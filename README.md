@@ -12,11 +12,7 @@ I am Ala Eddin Aldoukhi, a software engineering student at UPM.
 
 ## My Skills
 
-<style>
-    .skill-link{
-        margin: 0 0.5rem;
-    }
-</style>
+<style>.skill-link{margin: 0 0.5rem;}</style>
 
 <details>
   <summary>Front End</summary>
