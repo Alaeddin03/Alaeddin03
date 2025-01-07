@@ -1,13 +1,13 @@
 ## Hello there 🔭
 
-I am Ala Eddin Aldoukhi, a graduate software engineer with expertise in full-stack web development.
+I am Ala Eddin Aldoukhi, a DevSecOps Engineer with background in Software Engineering.
 
 ## Who am I? 🤔
 
-- 💻 A full-stack developer specializing in [React](https://react.dev) with extensive experience. 
-- 🎨 A UI/UX enthusiast who loves to design and develop beautiful and user-friendly interfaces.
+- A DevSecOps Engineer @ [AppSec](https://appsec.sa) with expertise in SCA, SAST, DAST, IAST.
+- 💻 A full-stack developer specializing in [React](https://react.dev). 
 - 📚 A continuous learner who is always eager to learn new technologies.
-- 🏄‍♂️ On a journey of sharpening my back-end skills.
+- 🏄‍♂️ On a journey of expanding my software design and application security skills..
 - 👨‍💻 Decent experience in modern programming languages (Python, Java, C++).
 
 <br />
