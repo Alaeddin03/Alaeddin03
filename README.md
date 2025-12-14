@@ -48,17 +48,6 @@ I am Ala Eddin Aldoukhi, a DevSecOps Engineer with a strong software engineering
 </details>
 
 <details>
-  <summary>🔐 Application Security Tools</summary>
-  <div align="center">
-    <img src="./assets/BlackDuck.svg" height="40" alt="Black Duck" />
-    &nbsp;
-    <img src="./assets/opentext.svg" height="40" alt="OpenText" />
-    &nbsp;
-    <img src="./assets/sonatype.png" height="40" alt="Sonatype" />
-  </div>
-</details>
-
-<details>
   <summary>🧠 Back End</summary>
   <div align="center">
     <img src="./assets/Spring-Dark.svg" width="40" height="40" alt="Spring" />
